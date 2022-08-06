@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "546273452049",
+    "firebase_url": "https://beyaz-altin-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "beyaz-altin",
+    "storage_bucket": "beyaz-altin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546273452049:android:058eb2426b28b1752991b0",
+        "android_client_info": {
+          "package_name": "com.example.beyazaltin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546273452049-vspgtv3ukq15nsvrbpn3oidqujggigm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ0GM4ZPznnEXBtjENFhGZhaB16IDTID4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546273452049-vspgtv3ukq15nsvrbpn3oidqujggigm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
